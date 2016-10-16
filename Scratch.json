@@ -4,4 +4,8 @@
   "User": "https://api.scratch.mit.edu/users/dellavedova"
   "Search/project": "https://api.scratch.mit.edu/search/project"
  ]
+ "Google": [
+  "Genomics": "https://genomics.googleapis.com/$discovery/rest?version=v1alpha2"
+  "Vision": "https://vision.googleapis.com/$discovery/rest?version=v1"
+ ]
 }

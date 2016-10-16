@@ -11,11 +11,4 @@
     "window" : false
     "restart" : null
   ]
- "JavaScript#1" : '''
-  class Happy:
-      alert("")
-      prompt("")
-      confirm("")
-      console.log(getUserId())
- '''
 }

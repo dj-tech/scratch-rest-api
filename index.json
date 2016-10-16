@@ -1,0 +1,21 @@
+{
+ "apiBase" : [
+   "apiGithub" : "https://api.github.com/"
+   "apiGenomicsGoggle" : "https://genomics.googleapis.com/$discovery/rest?version=v1"
+ ]
+ "InserKey" : true
+ "ApiProt" : "https://gist.github.com/dj-tech/9395ff9b235d17963a78e903be4bc94d.js"
+ "Security" : true
+ "optional" : [ 
+    "Object" : "Things"
+    "window" : false
+    "restart" : null
+  ]
+ "JavaScript#1" : '''
+  class Happy:
+      alert("")
+      prompt("")
+      confirm("")
+      console.log(getUserId())
+ '''
+}
